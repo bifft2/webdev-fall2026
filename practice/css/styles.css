@@ -1,0 +1,18 @@
+ol {
+    color: yellow;
+}
+
+#goals {
+    color: purple;
+    background-color: yellow;
+}
+
+#activities {
+    color: red;
+    background-color: black;
+}
+
+.important {
+    font-weight: 900;
+    font-size: xx-large;
+}
