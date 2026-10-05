@@ -1,0 +1,39 @@
+h3, .highlight {
+    font-weight: bold;
+}
+
+h2.highlight {
+    background-color: lightblue;
+}
+
+.card p {
+    font-size:larger;
+}
+
+.card > p {
+    border: 5px solid lightseagreen;
+}
+
+.places .highlight {
+    color: purple;
+}
+
+h2 + p {
+    color: red;
+}
+
+h2 ~ p {
+    font-style: italic;
+}
+
+.card > ul {
+    border: 5px dotted greenyellow;
+}
+
+h2, h3 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+* {
+    box-sizing: border-box;
+}
